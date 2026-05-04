@@ -35,7 +35,7 @@ console.log(QA);
 QA.pop();
 console.log(QA);
 
-
+// QA array'inin uzunlugunu yazdir
 
 
 
