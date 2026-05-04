@@ -38,7 +38,8 @@ console.log(QA);
 // QA array'inin uzunlugunu yazdir
 
 
-
+//SSSAASFGBNMM<NN>N
+// DENEME GIT REMOTE
 
 
 
