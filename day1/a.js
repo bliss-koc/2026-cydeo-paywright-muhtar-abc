@@ -15,10 +15,6 @@ for (let item of items) {
   console.log(item);
 }
 
-
-
-
-
 let QA = [
   "Saadet",
   "Adnan",
@@ -43,6 +39,7 @@ console.log(QA);
 
 
 //SSSAASFGBNMM<NN>N
+// DENEME GIT REMOTE
 
 
 
