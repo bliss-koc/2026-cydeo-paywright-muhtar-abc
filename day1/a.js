@@ -15,6 +15,10 @@ for (let item of items) {
   console.log(item);
 }
 
+
+
+
+
 let QA = [
   "Saadet",
   "Adnan",
